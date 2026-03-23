@@ -6,18 +6,16 @@ A comprehensive 9-part beginner's guide to Windows PowerShell, covering everythi
 Welcome! This repository contains a structured, 9-part documentation series I developed to master **Windows PowerShell**. These guides bridge the gap between basic CLI usage and advanced administrative automation—a critical skill for my journey in **Cybersecurity and DevOps**.
 
 ## 📂 Learning Path (PDF Guides)
-Click on any topic below to view the detailed documentation, including code examples and execution results.
 
-1.  **[Introduction to PowerShell](./01- Introduction.pdf)** - Basics of CLI, automation concepts, and preparing payloads.
-3.  **[The Help System](./02_Help_System.pdf)** - Master `Get-Help`, updateable help, and discovering commands.
-4.  **[Objects, Variables & Types](./03_Objects_Variables_Types.pdf)** - Understanding .NET objects and data storage.
-5.  **[Arrays](./04_Arrays.pdf)** - Managing collections of data.
-6.  **[Hash Tables](./05_Hash_Tables.pdf)** - Working with key-value pairs for configuration.
-7.  **[Pipeline Basics](./06_Pipeline_Basics.pdf)** - The core power of passing objects between commands.
-8.  **[Control Flow & Loops](./07_Loops.pdf)** - Automating repetitive tasks with `For`, `ForEach`, and `While`.
-9.  **[Functions & Script Blocks](./08_Functions.pdf)** - Building reusable tools and understanding variable scope.
-10.  **[Advanced Pipelines & Remoting](./09_Remoting.pdf)** - Managing remote systems and advanced data flows.
-
+1. [Introduction to PowerShell](./powershell%20introduction.pdf)
+2. [Windows PowerShell Help System](./Windows%20PowerShell%20Help%20System.pdf)
+3. [Objects, Variables & Types](./objects,variables%20and%20Types.pdf)
+4. [Arrays](./Arrays.pdf)
+5. [Hash Table](./Hash%20Table.pdf)
+6. [Pipelines Basics](./Pipelines%20Basics.pdf)
+7. [Loops](./Loops.pdf)
+8. [Script Block and Functions](./Script%20bloack%20and%20functions.pdf)
+9. [Advance Pipelines and Remoting](./Advance%20Pipelines%20and%20Remoting.pdf)
 ---
 
 ## 🛠 Skills Highlighted
